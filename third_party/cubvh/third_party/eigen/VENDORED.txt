@@ -1,0 +1,2 @@
+Eigen headers (Eigen/ only) copied from the o-voxel vendored copy in Omazi/TRELLIS.2; licence MPL2 (COPYING.MPL2).
+The git submodule of upstream cubvh was never vendored, so fresh builds could not find Eigen.

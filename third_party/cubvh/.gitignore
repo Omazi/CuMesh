@@ -4,7 +4,7 @@ build/
 *.so
 *.pyd
 .vs/
-eigen*/
+build-eigen*/
 output/
 output*/
 data
